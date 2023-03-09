@@ -8,6 +8,7 @@ ___
 * __Phone__ - _+375295014631_
 * __Linkedin__ -  [_linkedin_ ](https://www.linkedin.com/in/anton-novikov)
 * __Discord__ - _Anton Novikov#0124_
+
 ___
 #### About me
 
@@ -18,7 +19,7 @@ ___
 JS,TypeScript, C#
 Angular, .NET Core   
 Agile, BEM  
-Git  
+Git
 ___
 #### Сode example
 ```
